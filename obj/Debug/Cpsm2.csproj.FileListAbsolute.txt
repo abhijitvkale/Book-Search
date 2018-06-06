@@ -1,0 +1,7 @@
+c:\users\karth\documents\visual studio 2013\Projects\Cpsm2\Cpsm2\bin\Debug\Cpsm2.exe.config
+c:\users\karth\documents\visual studio 2013\Projects\Cpsm2\Cpsm2\bin\Debug\storybook.txt
+c:\users\karth\documents\visual studio 2013\Projects\Cpsm2\Cpsm2\bin\Debug\Cpsm2.exe
+c:\users\karth\documents\visual studio 2013\Projects\Cpsm2\Cpsm2\bin\Debug\Cpsm2.pdb
+c:\users\karth\documents\visual studio 2013\Projects\Cpsm2\Cpsm2\obj\Debug\Cpsm2.csprojResolveAssemblyReference.cache
+c:\users\karth\documents\visual studio 2013\Projects\Cpsm2\Cpsm2\obj\Debug\Cpsm2.exe
+c:\users\karth\documents\visual studio 2013\Projects\Cpsm2\Cpsm2\obj\Debug\Cpsm2.pdb

@@ -1,0 +1,36 @@
+﻿This section provides detailed information on key C# language features and features accessible to C# through the .NET Framework.
+Most of this section assumes that you already know something about C# and general programming concepts. If you are a complete beginner with programming or with C#, you might want to visit the C# Developer Center, where you can find many tutorials, samples and videos to help you get started.
+For information about specific keywords, operators and preprocessor directives, see C# Reference. For information about the C# Language Specification, see C# Language Specification.
+Language Sections
+Inside a C# Program
+Main() and Command-Line Arguments
+Types
+Arrays
+Strings
+Statements, Expressions, and Operators
+Classes and Structs
+Properties
+Interfaces
+Indexers
+Enumeration Types
+Delegates
+Events
+Generics
+Iterators
+LINQ Query Expressions
+Lambda Expressions
+Namespaces
+Nullable Types
+Unsafe Code and Pointers
+XML Documentation Comments
+Platform Sections
+Application Domains (C# and Visual Basic)
+Assemblies and the Global Assembly Cache
+Attributes
+Collections
+Exceptions and Exception Handling
+File System and the Registry (C# Programming Guide)
+Interoperability
+Reflection
+Featured Book Chapter
+Advanced C# in C# 3.0 in a Nutshell, Third Edition: A Desktop Quick Reference
